@@ -1,0 +1,6 @@
+[package]
+name = "Tim-tui"
+version = "0.1.0"
+authors = ["Javier Pollak <javi.po.123@gmail.com>"]
+
+[dependencies]
